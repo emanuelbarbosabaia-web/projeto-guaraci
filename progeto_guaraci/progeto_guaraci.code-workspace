@@ -1,0 +1,12 @@
+{
+    "folders": [
+		{
+			"name": "progeto_guaraci",
+			"path": "."
+		},
+		{
+			"name": "testeWebSerialAPI",
+			"path": "../testeWebSerialAPI"
+		}
+	]
+}
