@@ -22,7 +22,7 @@ Orientadora: Joana Ramos.
 --- 
 >Co-orientadores:
 >
->Emanuel;
+>Emanuel Barbosa Baia;
 >
 >Suelen Nayssa;
 >
