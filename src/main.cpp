@@ -16,7 +16,7 @@ float tensaoShunt = 0, tensaoBarramento = 0, corrente_mA = 0, tensaoCarga = 0, p
 
 void setup() {
   Serial.begin(9600); 
-  Serial.print("Início do programa - Modo PlatformIO\n");
+  Serial.print("Início do programa\n");
 
   if (!meuINA219.begin()) {
     Serial.print("Falha ao encontrar o INA219\n");
